@@ -1,1 +1,1 @@
-# x1234xx-ParasiteHTTP-Plug-in
+# ParasiteHTTP Botnet
